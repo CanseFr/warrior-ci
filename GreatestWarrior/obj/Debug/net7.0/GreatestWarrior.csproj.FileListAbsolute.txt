@@ -1,0 +1,15 @@
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\bin\Debug\net7.0\GreatestWarrior.exe
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\bin\Debug\net7.0\GreatestWarrior.deps.json
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\bin\Debug\net7.0\GreatestWarrior.runtimeconfig.json
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\bin\Debug\net7.0\GreatestWarrior.dll
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\bin\Debug\net7.0\GreatestWarrior.pdb
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.csproj.AssemblyReference.cache
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.AssemblyInfoInputs.cache
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.AssemblyInfo.cs
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.csproj.CoreCompileInputs.cache
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.dll
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\refint\GreatestWarrior.dll
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.pdb
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\GreatestWarrior.genruntimeconfig.cache
+C:\Users\cdric\OneDrive\Bureau\Formations\FormationTestsRecettes\git_GreatestWarrior\GreatestWarrior\obj\Debug\net7.0\ref\GreatestWarrior.dll
