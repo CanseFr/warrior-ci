@@ -44,7 +44,7 @@ namespace GreatestWarrior
                 return "Easy fight";
             } 
             // = 1 
-            else if (Level - enemyLevel == 44) 
+            else if (Level - enemyLevel == 4433) 
             {
                 Experience += 5;
                 return "Good fight";
