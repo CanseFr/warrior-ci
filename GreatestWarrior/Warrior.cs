@@ -39,12 +39,12 @@ namespace GreatestWarrior
         public string Battle(int enemyLevel)
         {
             // = 2 
-            if (Level - enemyLevel >= 30)
+            if (Level - enemyLevel >= 2)
             {
                 return "Easy fight";
             } 
             // = 1 
-            else if (Level - enemyLevel == 4433) 
+            else if (Level - enemyLevel == 1) 
             {
                 Experience += 5;
                 return "Good fight";
@@ -55,7 +55,7 @@ namespace GreatestWarrior
                 return "Good fight";
             }
             // = 5 
-            else if (Level - enemyLevel <= -50)
+            else if (Level - enemyLevel <= -5)
             {
                 IsEnded = true;
                 return "Battle lost";
